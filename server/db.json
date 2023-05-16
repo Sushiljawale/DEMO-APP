@@ -2,7 +2,7 @@
   "registration": [
     {
       "id": "gfg",
-      "firstName": "Parachi",
+      "firstName": "Prachi",
       "lastName": "Kakade",
       "email": "kakadeprachi98@gmail.com",
       "photo": "https://cdn2.storyasset.link/S5Eevi5qj4d92Uhvv7vGDMZUebs2/c7f9a7c515c8dfa11c2a5343b49617e0-ms-vrzueyfpmo.jpg",
@@ -25,19 +25,6 @@
       "age": "20",
       "tag": "Sport",
       "id": "v2wljOJ"
-    },
-    {
-      "firstName": "admin123",
-      "lastName": "Jawale",
-      "email": "chrishamswors90@gmail.com",
-      "address": "At post sawad tq.dis.hingoli",
-      "country": "India",
-      "photo": "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
-      "contact": 4546464,
-      "age": "20",
-      "state": "Maharashtra",
-      "tag": "Sport",
-      "id": "1Ohh9hx"
     }
   ]
 }
